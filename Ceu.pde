@@ -5,6 +5,7 @@ class Ceu{
     y1 = p1y;
     x2 = p2x;
     y2 = p2y;
+    fill(0,0,random(255));
     /* //Put your code here 
     
     

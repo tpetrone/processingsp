@@ -5,6 +5,7 @@ class Solo{
     y1 = p1y;
     x2 = p2x;
     y2 = p2y;
+    fill(125,255,255);
     /* //Put your code here 
     
     

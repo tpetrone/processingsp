@@ -5,7 +5,6 @@ class Sol{
     y1 = p1y;
     x2 = p2x;
     y2 = p2y;
-    fill(255,255,134);
     /* //Put your code here 
     
     

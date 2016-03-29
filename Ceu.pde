@@ -11,7 +11,8 @@ class Ceu{
     
     
     */
+    // Ceu azul :D
+    fill( 170, 170, 255 );
     rect(x1, y1, x2, y2);
-    fill(255,255,255);
   }
 }
